@@ -1,0 +1,7 @@
+ID,title,description,status,totalAmount,currency,criticality
+7489279a-c943-4a11-824c-9f8207f7f457,Office Supplies,Monthly restocking,Draft,15000.00,INR,0
+9c5e8b1d-3f2a-4c91-b7d6-e12a4b8f0d52,Laptop Procurement,High-end workstations,Pending Approval,450000.00,INR,2
+f2a8c3d4-b9e0-4a11-85c1-d9f2a7b8e4c3,Marketing Collateral,Trade show brochures,Draft,85000.00,INR,0
+a1b2c3d4-e5f6-4a7b-8c9d-e0f1a2b3c4d5,Cloud Subscription,Annual renewal,Pending Approval,120000.00,INR,2
+b2c3d4e5-f6a7-4b8c-9d0e-f1a2b3c4d5e6,Facility Maintenance,Quarterly HVAC,Draft,35000.00,INR,0
+c3d4e5f6-a7b8-4c9d-0e1f-a2b3c4d5e6f7,External Training,Certification vouchers,Pending Approval,210000.00,INR,2
